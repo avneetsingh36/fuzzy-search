@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Python script searches for a specified phrase or word in a text file and highlights it if found. The script takes user input for the search phrase, and if found, it prints the surrounding context with the phrase highlighted in blue. The script also counts the number of instances the phrase appears in the text and notifies the user if there might be a typo in their search query.
+This Python script searches for a specified phrase or word in a text file and highlights it if found, even attempting to find the closest match to accommodate for potential user errors. The script takes user input for the search phrase, and if found, it prints the surrounding context with the phrase highlighted in blue. The script also counts the number of instances the phrase appears in the text and notifies the user if there might be a typo in their search query.
 
 ## Requirements
 
