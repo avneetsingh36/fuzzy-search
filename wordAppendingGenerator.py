@@ -1,3 +1,5 @@
+# this file just appends words to your text file in case you want to generate some random words to play with
+
 from random_word import RandomWords
 import time
 
@@ -10,3 +12,5 @@ while (True):
             myText.write(checkIfString)
             myText.write(' ')
         time.sleep(5)
+        
+   
