@@ -29,6 +29,7 @@ Optionally, you can choose to see the entire text with the search phrase highlig
 
 The script is case-insensitive for the search.
 If the search phrase has more than five characters, the script will also search for the phrase with one character added or subtracted, to account for potential typos.
-License
+
+### License
 
 This project is open source and available for use under the terms of the MIT License.
