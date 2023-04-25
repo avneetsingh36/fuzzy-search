@@ -6,8 +6,8 @@ This Python script searches for a specified phrase or word in a text file and hi
 
 ## Requirements
 
-Python 3.x
-colorama library: Install using pip install colorama
+- Python 3.x
+- colorama library: Install using pip install colorama
 
 ## Usage
 
