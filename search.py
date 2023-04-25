@@ -21,7 +21,7 @@ userInputLower = userSearch
 
 
 
-with open("/Users/avneetsingh/Desktop/stuff/Life/Code/Python/Saihaj Projects/22.08.31_searchfzzsort/md.txt", mode = 'r', encoding="utf-8") as myText:
+with open("/Users/rest/of/path", mode = 'r', encoding="utf-8") as myText:
     storing = myText.readlines()
 for i in storing:
     preSplitpreLower = preSplitpreLower + i
