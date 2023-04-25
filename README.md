@@ -11,19 +11,19 @@ This Python script searches for a specified phrase or word in a text file and hi
 
 ## Usage
 
-Clone the repository or download the script.
-Ensure that the text file you want to search is accessible.
-Modify the file path in the script to point to your text file. Replace the following line with the correct path to your text file:
+1) Clone the repository or download the script.
+2) Ensure that the text file you want to search is accessible.
+3) Modify the file path in the script to point to your text file. 
+4) Replace the following line with the correct path to your text file:
 
 ```
 with open("/Users/rest/of/your/path/md.txt", mode = 'r', encoding="utf-8")
 ```
-
-Run the script using python script_name.py
-Enter the phrase or word you want to search for when prompted.
-Type "okay" to continue with the search.
-Review the highlighted results and the total number of mentions of the phrase in the text.
-Optionally, you can choose to see the entire text with the search phrase highlighted.
+5) Run the script using python script_name.py
+6) Enter the phrase or word you want to search for when prompted.
+7) Type "okay" to continue with the search.
+8) Review the highlighted results and the total number of mentions of the phrase in the text.
+9) Optionally, you can choose to see the entire text with the search phrase highlighted (try it once, it's fun!)
 
 ## Notes
 
